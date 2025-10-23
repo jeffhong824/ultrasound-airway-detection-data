@@ -3,8 +3,8 @@
 # Downloaded dataset files
 *.zip
 
-# Download reports
-*.txt
+# Download reports (but keep requirements.txt)
+download_report_*.txt
 
 # Environment variables
 .env

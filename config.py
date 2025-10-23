@@ -12,7 +12,7 @@ CVAT_EMAIL = os.getenv('CVAT_EMAIL', 'jeffhong824@gmail.com')
 CVAT_PASSWORD = os.getenv('CVAT_PASSWORD', 'Jeff840606')
 
 # Process Configuration
-PROCESS_TYPE = os.getenv('PROCESS_TYPE', 'yolo')
+PROCESS_TYPE = os.getenv('PROCESS_TYPE', 'cvat_for_video')
 # PROCESS_TYPE = 'cvat_for_video'
 
 # Directory Configuration
